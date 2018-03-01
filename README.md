@@ -1,4 +1,6 @@
-# one<!DOCTYPE html>
+
+
+<!DOCTYPE html>
 <html>
 <head>
     
@@ -16,10 +18,7 @@
   <title>JS Bin</title>
 </head>
 <body>
-      <audio controls>
-        <source src="" type="audio/mpeg">
-      Your browser does not support the audio element.
-      </audio>
+     
       
   
   
